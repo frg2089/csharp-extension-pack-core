@@ -1,0 +1,21 @@
+{
+    "name": "csharp-extension-pack-core",
+    "displayName": "C# Extension Pack [Minimize]",
+    "description": "Minimize for C# Development, Core feature Only",
+    "version": "0.0.1",
+    "publisher": "frg2089",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/frg2089/csharp-extension-pack-core"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-dotnettools.csharp",
+        "editorconfig.editorconfig"
+    ]
+}
